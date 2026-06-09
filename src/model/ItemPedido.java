@@ -22,6 +22,9 @@ public class ItemPedido {
                 .multiply(BigDecimal.valueOf(quantidade));
     }
 
+
+
+
     public Long getId() {
         return id;
     }

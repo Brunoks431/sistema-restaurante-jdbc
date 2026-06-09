@@ -1,7 +1,6 @@
 package DAO;
 
 import connections.ConnectionFactory;
-import model.ItemPedido;
 import model.Produto;
 
 import java.sql.Connection;
